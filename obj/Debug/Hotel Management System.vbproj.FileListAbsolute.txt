@@ -1,0 +1,174 @@
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\bin\Debug\Hotel Management System.exe.config
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\bin\Debug\data.mdb
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\bin\Debug\Reports\rpt_Account_Receivable.rpt
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\bin\Debug\Reports\rpt_CheckIn_Guest.rpt
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\bin\Debug\Reports\rpt_CheckOut.rpt
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\bin\Debug\Reports\rpt_Due_Reservation.rpt
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\bin\Debug\Reports\rpt_Folio.rpt
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\bin\Debug\Reports\rpt_Guest_List.rpt
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\bin\Debug\Reports\rpt_Old_Accounts.rpt
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\bin\Debug\Reports\rpt_Other_Charges.rpt
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\bin\Debug\Reports\rpt_Reservation.rpt
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\bin\Debug\Reports\rpt_Room_History.rpt
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\bin\Debug\Hotel Management System.exe
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\bin\Debug\Hotel Management System.pdb
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\bin\Debug\Hotel Management System.xml
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmReports.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.Form2.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmAbout.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmAccountReceivable.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmAccountReceivableList.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmBusinessSource.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmChangeRoom.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmChargeType.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmCheckIn.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmCheckInHistory.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmCheckOut.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmCompany.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmCompanyLookup.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmCountries.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmCustomerLookup.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmGuest.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmInventoryView.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmLogin.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmOtherCharges.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmPayments.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmPaymentType.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmRatePerPeriod.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmRateType.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmReservation.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmReservationList.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmRoomStatus.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmRoomType.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmRoomWindow.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmRPTAccRec.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmRPTCheckOut.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmRPTDueReservation.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmRPTOtherCharges.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmRPTRoomHistory.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmSplash.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmVehicles.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.frmIDType.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.mdiMain.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel_Management_System.Resources.resources
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel Management System.vbproj.GenerateResource.Cache
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel Management System.exe
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel Management System.xml
+C:\Users\G$M\Desktop\New Fo\Hotel Management System VB.NET\obj\Debug\Hotel Management System.pdb
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\bin\Debug\Hotel Management System.exe.config
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel Management System.exe
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel Management System.xml
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel Management System.pdb
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\bin\Debug\data.mdb
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\bin\Debug\Reports\rpt_Account_Receivable.rpt
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\bin\Debug\Reports\rpt_CheckIn_Guest.rpt
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\bin\Debug\Reports\rpt_CheckOut.rpt
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\bin\Debug\Reports\rpt_Due_Reservation.rpt
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\bin\Debug\Reports\rpt_Folio.rpt
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\bin\Debug\Reports\rpt_Guest_List.rpt
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\bin\Debug\Reports\rpt_Old_Accounts.rpt
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\bin\Debug\Reports\rpt_Other_Charges.rpt
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\bin\Debug\Reports\rpt_Reservation.rpt
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\bin\Debug\Reports\rpt_Room_History.rpt
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\bin\Debug\Hotel Management System.exe
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\bin\Debug\Hotel Management System.pdb
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\bin\Debug\Hotel Management System.xml
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmReports.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.Form2.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmAbout.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmAccountReceivable.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmAccountReceivableList.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmBusinessSource.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmChangeRoom.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmChargeType.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmCheckIn.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmCheckInHistory.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmCheckOut.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmCompany.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmCompanyLookup.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmCountries.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmCustomerLookup.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmGuest.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmInventoryView.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmLogin.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmOtherCharges.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmPayments.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmPaymentType.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmRatePerPeriod.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmRateType.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmReservation.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmReservationList.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmRoomStatus.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmRoomType.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmRoomWindow.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmRPTAccRec.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmRPTCheckOut.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmRPTDueReservation.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmRPTOtherCharges.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmRPTRoomHistory.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmSplash.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmVehicles.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.frmIDType.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.mdiMain.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel_Management_System.Resources.resources
+C:\Documents and Settings\HCL\My Documents\Visual Studio 2008\Projects\Hotel Management System\obj\Debug\Hotel Management System.vbproj.GenerateResource.Cache
+E:\Hotel Management System\bin\Debug\Hotel Management System.exe.config
+E:\Hotel Management System\obj\Debug\Hotel Management System.exe
+E:\Hotel Management System\obj\Debug\Hotel Management System.xml
+E:\Hotel Management System\obj\Debug\Hotel Management System.pdb
+E:\Hotel Management System\bin\Debug\data.mdb
+E:\Hotel Management System\bin\Debug\Reports\rpt_Account_Receivable.rpt
+E:\Hotel Management System\bin\Debug\Reports\rpt_CheckIn_Guest.rpt
+E:\Hotel Management System\bin\Debug\Reports\rpt_CheckOut.rpt
+E:\Hotel Management System\bin\Debug\Reports\rpt_Due_Reservation.rpt
+E:\Hotel Management System\bin\Debug\Reports\rpt_Folio.rpt
+E:\Hotel Management System\bin\Debug\Reports\rpt_Guest_List.rpt
+E:\Hotel Management System\bin\Debug\Reports\rpt_Old_Accounts.rpt
+E:\Hotel Management System\bin\Debug\Reports\rpt_Other_Charges.rpt
+E:\Hotel Management System\bin\Debug\Reports\rpt_Reservation.rpt
+E:\Hotel Management System\bin\Debug\Reports\rpt_Room_History.rpt
+E:\Hotel Management System\bin\Debug\Hotel Management System.exe
+E:\Hotel Management System\bin\Debug\Hotel Management System.pdb
+E:\Hotel Management System\bin\Debug\Hotel Management System.xml
+E:\Hotel Management System\obj\Debug\ResolveAssemblyReference.cache
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmReports.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.Form2.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmAbout.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmAccountReceivable.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmAccountReceivableList.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmBusinessSource.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmChangeRoom.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmChargeType.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmCheckIn.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmCheckInHistory.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmCheckOut.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmCompany.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmCompanyLookup.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmCountries.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmCustomerLookup.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmGuest.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmInventoryView.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmLogin.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmOtherCharges.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmPayments.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmPaymentType.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmRatePerPeriod.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmRateType.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmReservation.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmReservationList.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmRoomStatus.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmRoomType.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmRoomWindow.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmRPTAccRec.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmRPTCheckOut.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmRPTDueReservation.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmRPTOtherCharges.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmRPTRoomHistory.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmSplash.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmVehicles.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.frmIDType.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.mdiMain.resources
+E:\Hotel Management System\obj\Debug\Hotel_Management_System.Resources.resources
+E:\Hotel Management System\obj\Debug\Hotel Management System.vbproj.GenerateResource.Cache
